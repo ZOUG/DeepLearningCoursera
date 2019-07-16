@@ -12,11 +12,11 @@ This repo contains all my work for [Deep Learning Specialization on Coursera](ht
   [Course Info](https://www.coursera.org/learn/neural-networks-deep-learning)
   
   Notebooks:
-  + [Week 2 - Phyton Basics with Numpy](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Python%20Basics%20With%20Numpy%20v3.ipynb)
+  + [Week 2 - Python Basics with Numpy](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Python%20Basics%20With%20Numpy%20v3.ipynb)
   + [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
-  + [Week 3 - Planar data classification with a hidden layer](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Planar%20data%20classification%20with%20one%20hidden%20layer%20v4.ipynb)
-  + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v5.ipynb)
-  + [Week 4 - Deep Neural Network: Application](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Deep%20Neural%20Network%20-%20Application%20v3.ipynb)
+  + [Week 3 - Planar data classification with a hidden layer](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Planar_data_classification_with_one_hidden_layer_v6a.ipynb)
+  + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)
+  + [Week 4 - Deep Neural Network: Application](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%201/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 - **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
@@ -58,6 +58,6 @@ This repo contains all my work for [Deep Learning Specialization on Coursera](ht
   + [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
   + [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
   + [Week 2 - Operations on word vectors](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Operations%20on%20word%20vectors%20-%20v2.ipynb)
-  + [Week 2 - Emojify - v2](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Emojify%2B-%2Bv2.ipynb)
+  + [Week 2 - Emojify - v2](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Emojify%20-%20v2.ipynb)
   + [Week 3 - Neural machine translation with attention](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)
   + [Week 3 - Trigger word detection](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Trigger%20word%20detection%20-%20v1.ipynb)
