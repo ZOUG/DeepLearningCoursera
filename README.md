@@ -47,7 +47,7 @@ This repo contains all my work for [Deep Learning Specialization on Coursera](ht
   + [Week 2 - Residual Networks](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%204/Residual%20Networks%20-%20v2.ipynb)
   + [Week 3 - Autonomous driving application - Car detection](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%204/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
   + [Week 4 - Face Recognition for the Happy House](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%204/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
-  + [Week 4 - Art Generation with Neural Style Transfer.ipynb](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%204/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+  + [Week 4 - Art Generation with Neural Style Transfer](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%204/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
   
 - **Course 5: Sequence Models**
 
