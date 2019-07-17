@@ -58,6 +58,6 @@ This repo contains all my work for [Deep Learning Specialization on Coursera](ht
   + [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
   + [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
   + [Week 2 - Operations on word vectors](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Operations%20on%20word%20vectors%20-%20v2.ipynb)
-  + [Week 2 - Emojify - v2](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Emojify%20-%20v2.ipynb)
+  + [Week 2 - Emojify](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Emojify%20-%20v2.ipynb)
   + [Week 3 - Neural machine translation with attention](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)
   + [Week 3 - Trigger word detection](https://github.com/ZOUG/DeepLearningCoursera/blob/master/Course%205/Trigger%20word%20detection%20-%20v1.ipynb)
